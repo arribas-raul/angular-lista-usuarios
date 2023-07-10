@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+.circle-singleline {
+    margin: 20px;
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      font-size: 12px;
+      line-height: 20px;
+      text-align: center;    
+      background: #055f9b;
+      color: #fff;
+  }
